@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on Control Theory, Optimization, Machine Learning, and Data-driven Control.  
 
-🌱 I’m currently learning Advanced Optimization and Data-driven Control Algorithms.
+🌱 I’m currently exploring advanced optimization and data-driven control algorithms.
 
 💬 Ask me about Control Systems, Optimization, System Identification, CasADi, Model Predictive Control, and Dynamical Systems. 
 
@@ -16,7 +16,7 @@
 - Optimization
 - System Identification
 - Data-Driven Control
-- Scientific Machine Learning
+- Model Predictive Control
 - Large-Scale Dynamical Systems
 
 ## 🌐 Socials:
@@ -37,12 +37,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vatsal-iitb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Vatsal-iitb&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vatsal-iitb&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Vatsal-iitb&icon=0&color=0)](https://visitcount.itsvg.in)
