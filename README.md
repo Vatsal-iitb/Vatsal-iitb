@@ -11,6 +11,14 @@
 
 ⚡ Fun fact: I enjoy solving challenging problems in Control and Optimization.
 
+## 🔬 Research Interests
+- Control Theory
+- Optimization
+- System Identification
+- Data-Driven Control
+- Scientific Machine Learning
+- Large-Scale Dynamical Systems
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsal-kedia-iitbombay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatsalkedia56@gmail.com) 
 
