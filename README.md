@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on Optimization, System Identification, and Data-driven Control Algorithms at ABB<br><br>👯 I’m looking to collaborate on Control Theory, Optimization, Machine Learning, and Data-driven Dynamical Systems<br><br>🌱 I’m currently learning Advanced Optimization Algorithms and Scientific ML<br><br>💬 Ask me about Control Systems, Optimization, Machine Learning, System Identification, CasADi, MPC, and Dynamical Systems<br><br>⚡ Fun fact: I enjoy bridging Control Theory with AI/ML to solve real-world industrial problems
+🔭 Associate Scientist at ABB working at the intersection of Control Theory, Optimization, and Machine Learning for industrial systems.  
 
+🎓 PhD in Electrical Engineering (Control and Computing) from IIT Bombay, with research focused on scalable algorithms for subspace system identification and data-driven control using randomized approaches for large-scale dynamical systems.  
+
+👯 I’m looking to collaborate on Control Theory, Optimization, Machine Learning, and Data-driven Control.  
+
+🌱 I’m currently learning Advanced Optimization and Data-driven Control Algorithms.
+
+💬 Ask me about Control Systems, Optimization, System Identification, CasADi, Model Predictive Control, and Dynamical Systems. 
+
+⚡ Fun fact: I enjoy solving challenging problems in Control and Optimization.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsal-kedia-iitbombay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatsalkedia56@gmail.com) 
