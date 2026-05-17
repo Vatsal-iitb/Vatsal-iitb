@@ -1,17 +1,17 @@
-# 💫 About Me:
-🔭 Associate Scientist at ABB working at the intersection of Control Theory, Optimization, and Machine Learning for industrial systems.  
+# About Me:
+- Associate Scientist at ABB working at the intersection of Control Theory, Optimization, and Machine Learning for industrial systems.  
 
-🎓 PhD in Electrical Engineering (Control and Computing) from IIT Bombay, with research focused on scalable algorithms for subspace system identification and data-driven control using randomized approaches for large-scale dynamical systems.  
+- PhD in Electrical Engineering (Control and Computing) from IIT Bombay, with research focused on scalable algorithms for subspace system identification and data-driven control using randomized approaches for large-scale dynamical systems.  
 
-👯 I’m looking to collaborate on Control Theory, Optimization, Machine Learning, and Data-driven Control.  
+- I’m looking to collaborate on Control Theory, Optimization, Machine Learning, and Data-driven Control.  
 
-🌱 I’m currently exploring advanced optimization and data-driven control algorithms.
+- I’m currently exploring advanced optimization and data-driven control algorithms.
 
-💬 Ask me about Control Systems, Optimization, System Identification, CasADi, Model Predictive Control, and Dynamical Systems. 
+- Ask me about Control Systems, Optimization, System Identification, CasADi, Model Predictive Control, and Dynamical Systems. 
 
-⚡ Fun fact: I enjoy solving challenging problems in Control and Optimization.
+- Fun fact: I enjoy solving challenging problems in Control and Optimization.
 
-## 🔬 Research Interests
+## Research Interests
 - Control Theory
 - Optimization
 - System Identification
@@ -19,10 +19,10 @@
 - Model Predictive Control
 - Large-Scale Dynamical Systems
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsal-kedia-iitbombay) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatsalkedia56@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
